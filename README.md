@@ -1,4 +1,4 @@
-# Memory Architect 	🧠
+# Memory Architect 	
 
 This program helps users understand and visualize the organization of memory within a computer system. It provides information about different types of memory and allows users to solve various memory-related questions.
 
